@@ -9,7 +9,7 @@ class Handler(BaseHTTPRequestHandler):
         <html>
           <head><title>My DevOps Lab</title></head>
           <body style="font-family:Arial;text-align:center;margin-top:80px">
-            <h1>My first Kubernetes application!</h1>
+            <h1>My updated Kubernetes application!</h1>
             <p>It is running inside a Docker container.</p>
             <p>Application version: {VERSION}</p>
           </body>
