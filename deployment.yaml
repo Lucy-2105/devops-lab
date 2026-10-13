@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: devops-web:1.0.0
+          image: devops-web:1.1.0
           imagePullPolicy: Never
           ports:
             - containerPort: 8080
